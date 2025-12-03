@@ -29,7 +29,7 @@ void loop() {
   
 }
 
-// ------------ MOTOR FUNCTIONS ------------
+
 void forward() {
   digitalWrite(IN1, LOW);
   digitalWrite(IN2, LOW);
